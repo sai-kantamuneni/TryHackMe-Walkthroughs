@@ -1,1 +1,12 @@
 # TryHackMe-Walkthroughs
+TryHackMe is an online platform that teaches cybersecurity through interactive, gamified real-world labs and challenges. It offers hands-on learning experiences for both beginners and experienced professionals in the field of ethical hacking, penetration testing, and cyber security.
+
+In this series, I will begin with attempting the learning roadmaps provided by TryHackMe and then move onto individual challenges and rooms.
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/NoxushunterKSN.png" alt="Your Image Badge" />
+
+## Pre-Security
+This learning path will teach you the pre-requisite technical knowledge to get started in cyber security. To attack or defend any technology, you have to first learn how this technology works.
+
+|No. |Room              |Module               |Github                 |Medium                 |
+|----|------------------|---------------------|-----------------------|-----------------------|
