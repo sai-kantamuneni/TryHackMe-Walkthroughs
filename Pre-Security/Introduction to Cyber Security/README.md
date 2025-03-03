@@ -8,5 +8,5 @@ Explore both offensive and defensive security. Start by learning basic offensive
 
 There are 3 rooms in this module:
 * <a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Introduction%20to%20Cyber%20Security/Offensive%20Security%20Intro">Offensive Security Intro</a>
-* <a href="">Defensive Security Intro</a>
+* <a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Introduction%20to%20Cyber%20Security/Defensive%20Security%20Intro">Defensive Security Intro</a>
 * <a href="">Careers in Cyber</a>
