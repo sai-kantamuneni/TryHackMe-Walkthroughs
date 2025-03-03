@@ -13,3 +13,8 @@ This learning path will teach you the pre-requisite technical knowledge to get s
 |1.  |<a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Introduction%20to%20Cyber%20Security/Offensive%20Security%20Intro">Offensive Security Intro</a>|Introduction to Cyber Security|<a href=""></a>|
 |2.  |<a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Introduction%20to%20Cyber%20Security/Defensive%20Security%20Intro">Defensive Security Intro</a>|Introduction to Cyber Security|<a href=""></a>|
 |3.  |<a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Introduction%20to%20Cyber%20Security/Careers%20in%20Cyber">Careers in Cyber</a>|Introduction to Cyber Security|<a href=""></a>|
+|4.  |<a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Network%20Fundamentals/What%20is%20Networking">What is Networking?</a>|Network Fundamentals|<a href=""></a>|
+|4.  |<a href="">Intro to LAN </a>|Network Fundamentals|<a href=""></a>|
+|4.  |<a href="">OSI Model</a>|Network Fundamentals|<a href=""></a>|
+|4.  |<a href="">Packets & Frames</a>|Network Fundamentals|<a href=""></a>|
+|4.  |<a href="">Extending Your Network</a>|Network Fundamentals|<a href=""></a>|
