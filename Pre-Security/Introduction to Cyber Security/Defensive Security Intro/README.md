@@ -2,7 +2,7 @@
 
 This room is part of the **Introduction to Cyber Security** module available under the Pre-Security path.
 
-You can access the room here: <a href="https://medium.com/r/?url=https%3A%2F%2Ftryhackme.com%2Froom%2Fdefensivesecurityintro">Defensive Security Intro</a>
+You can access the room here: <a href="https://tryhackme.com/room/defensivesecurityintro">Defensive Security Intro</a>
 
 <img src="Assets/A1-8.png">
 
