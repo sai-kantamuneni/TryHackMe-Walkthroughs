@@ -11,4 +11,4 @@ There are 5 rooms in this module:
  2. <a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Network%20Fundamentals/Intro%20to%20LAN">Intro to LAN</a>
  3. <a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Network%20Fundamentals/OSI%20Model">OSI Model</a>
  4. <a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Network%20Fundamentals/Packets%20&%20Frames">Packets & Frames</a>
- 5. <a href="">Extending Your Network</a>
+ 5. <a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Network%20Fundamentals/Extending%20Your%20Network">Extending Your Network</a>
