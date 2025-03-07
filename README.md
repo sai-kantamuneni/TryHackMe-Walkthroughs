@@ -18,3 +18,7 @@ This learning path will teach you the pre-requisite technical knowledge to get s
 |6.  |<a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Network%20Fundamentals/OSI%20Model">OSI Model</a>|Network Fundamentals|<a href=""></a>|
 |7.  |<a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Network%20Fundamentals/Packets%20&%20Frames">Packets & Frames</a>|Network Fundamentals|<a href=""></a>|
 |8.  |<a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs/tree/main/Pre-Security/Network%20Fundamentals/Extending%20Your%20Network">Extending Your Network</a>|Network Fundamentals|<a href=""></a>|
+|9.  |<a href="">DNS in detail</a>|How The Web Works|<a href=""></a>|
+|10.  |<a href="">HTTP in detail</a>|How The Web Works|<a href=""></a>|
+|11.  |<a href="">How Websites Work</a>|How The Web Works|<a href=""></a>|
+|12.  |<a href="">Putting it all together</a>|How The Web Works|<a href=""></a>|
